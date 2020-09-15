@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248465570628",
+    "firebase_url": "https://mystore1305.firebaseio.com",
+    "project_id": "mystore1305",
+    "storage_bucket": "mystore1305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248465570628:android:64ccaff1d803b4e2b17511",
+        "android_client_info": {
+          "package_name": "com.codewithshubh.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248465570628-kc3ka8pfhpic3mu1vi7ahf9vchhn4ppc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKh9kQfdvUMzfJ4NiQgrT76oUmSgMYrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248465570628-kc3ka8pfhpic3mu1vi7ahf9vchhn4ppc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
